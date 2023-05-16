@@ -1,2 +1,2 @@
-# Impact-of-LDP-on-Fairness
+# Impact-of-KRR-on-Fairness
 Impact of LDP on Fairness
