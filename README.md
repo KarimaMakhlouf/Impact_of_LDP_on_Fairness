@@ -9,5 +9,6 @@ Repository for the paper: Impact of Local Differential Privacy on Fairness. (Her
 For any question, please contact:
 
 Karima Makhouf: karima.malhlouf [at]inria.fr
+
 Héber H. Arcolezi: heber.hwang-arcolezi [at] inria.fr
 
