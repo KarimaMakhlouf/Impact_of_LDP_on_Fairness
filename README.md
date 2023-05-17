@@ -10,6 +10,10 @@ ten-fold cross-validation technique. For k-RR mechanism, we use the implementati
     - allsLDP: all sensitive attributes (including the protected attribute) are obfuscated.
     - alloLDP: all the attributes except the target are obfuscated.
     - ayLDP: only the protected attribute and the target are obfuscated. 
+* For each dataset, three Jupyter notebooks are available:
+    - 1_Generated_data.ipynb: Jupyter notebook for generating and preprocessing (for the Adult and Compas datasets) data.
+    - 2_Experiments.ipynb: Jupyter notebook for computing fairness metrics and accuracy before and after applying KRR mechanism settings.
+    - 3_Generating_Plots.ipynb: Jupyter notebook for generating Figures ... in the paper.
     
 # Environment
 Our codes were developed using Python 3 with numpy, and pandas libaries. The versions are listed below:
