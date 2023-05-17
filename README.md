@@ -12,7 +12,7 @@ ten-fold cross-validation technique. For k-RR mechanism, we use the implementati
     - ayLDP: only the protected attribute and the target are obfuscated. 
     
 # Environment
-Our codes were developed using Python 3 with numpy, and pandaslibaries. The versions are listed below:
+Our codes were developed using Python 3 with numpy, and pandas libaries. The versions are listed below:
 * Python 3.7.3
 * Numpy 1.21.2
 * Pandas 1.3.3
