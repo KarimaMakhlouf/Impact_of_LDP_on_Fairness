@@ -25,8 +25,9 @@ Our codes were developed using Python 3 with numpy, and pandas libraries. The ve
 The repository is still under cleaning/generalization of the codes and the documentation.
 
 # Merits
-* We use the randomized mechanism KRR implemented in the [multi-freq-ldpy] (https://github.com/hharcolezi/multi-freq-ldpy) library.
-*  [multi-freq-ldpy](https://github.com/hharcolezi/multi-freq-ldpy)
+* We use the randomized mechanism KRR implemented in the [multi-freq-ldpy](https://github.com/hharcolezi/multi-freq-ldpy) library.
+* We use the Adult dataset from the [folktables](https://github.com/socialfoundations/folktables) library.
+* We use the Compas dataset from the [Kaggle](https://www.kaggle.com/datasets/danofer/compass) repository.
 
 # Contact
 For any questions, please contact:
