@@ -16,15 +16,23 @@ ten-fold cross-validation technique. For k-RR mechanism, we use the implementati
     - 3_Generating_Plots.ipynb: Jupyter notebook for generating Figures ... in the paper.
     
 # Environment
-Our codes were developed using Python 3 with numpy, and pandas libaries. The versions are listed below:
+Our codes were developed using Python 3 with numpy, and pandas libraries. The versions are listed below:
 * Python 3.7.3
 * Numpy 1.21.2
 * Pandas 1.3.3
 
+# On-going
+The repository is still under cleaning/generalization of the codes and the documentation.
+
+# Merits
+* We use the randomized mechanism KRR implemented in the [multi-freq-ldpy] library. 
+
 # Contact
-For any question, please contact:
+For any questions, please contact:
 
 [Karima Makhouf](http://www.lix.polytechnique.fr/Labo/Karima.MAKHLOUF/): karima.malhlouf [at]inria.fr
 
 [Héber H. Arcolezi](https://hharcolezi.github.io/): heber.hwang-arcolezi [at] inria.fr
+
+[Sami Zhioua](https://www.lix.polytechnique.fr/Labo/Sami.ZHIOUA/): karima.malhlouf [at]lix.polytechnique.fr
 
