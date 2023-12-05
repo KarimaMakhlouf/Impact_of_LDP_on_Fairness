@@ -12,7 +12,7 @@ ten-fold cross-validation technique. For k-RR mechanism, we use the implementati
 * For each dataset, three Jupyter notebooks are available:
     - 1_Generated_data.ipynb: Jupyter notebook for generating (for the synthetic dataset) or preprocessing (for the Adult and Compas datasets) the data.
     - 2_Experiments.ipynb: Jupyter notebook for computing fairness metrics and accuracy before and after applying KRR mechanism settings.
-    - 3_Generating_Plots.ipynb: Jupyter notebook for generating all the results illustrated in the paper.
+    - 3_Generating_Plots.ipynb: Jupyter notebook for generating all the results of the paper.
     
 # Environment
 Our codes were developed using Python 3 with numpy, and pandas libraries. The versions are listed below:
