@@ -7,13 +7,12 @@ ten-fold cross-validation technique. For k-RR mechanism, we use the implementati
 * The [datasets](https://github.com/KarimaMakhlouf/Impact_of_LDP_on_Fairness/tree/main/Datasets) folder includes all the used and generated datasets
 * The [Results](https://github.com/KarimaMakhlouf/Impact_of_LDP_on_Fairness/tree/main/Results) folder contains all the results (as csv files) of fairness metrics before and after applying the KRR mechanism settings for all the datasets. The settings applied in this study are:
     - sLDP: only the protected attribute is obfuscated.
-    - allsLDP: all sensitive attributes (including the protected attribute) are obfuscated.
-    - alloLDP: all the attributes except the target are obfuscated.
-    - ayLDP: only the protected attribute and the target are obfuscated. 
+    - allsLDP: a list of sensitive attributes (including the protected attribute) is obfuscated using KRR independently by applying the [k-based](https://link.springer.com/chapter/10.1007/978-3-031-37586-6_1) privacy splitting solution.
+    - combLDP: a list of sensitive attributes (including the protected attribute) is obfuscated using the combined setting of KRR.
 * For each dataset, three Jupyter notebooks are available:
-    - 1_Generated_data.ipynb: Jupyter notebook for generating and preprocessing (for the Adult and Compas datasets) data.
+    - 1_Generated_data.ipynb: Jupyter notebook for generating (for the synthetic dataset) or preprocessing (for the Adult and Compas datasets) the data.
     - 2_Experiments.ipynb: Jupyter notebook for computing fairness metrics and accuracy before and after applying KRR mechanism settings.
-    - 3_Generating_Plots.ipynb: Jupyter notebook for generating Figures ... in the paper.
+    - 3_Generating_Plots.ipynb: Jupyter notebook for generating all the results illustrated in the paper.
     
 # Environment
 Our codes were developed using Python 3 with numpy, and pandas libraries. The versions are listed below:
