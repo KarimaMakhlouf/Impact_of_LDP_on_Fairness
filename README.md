@@ -25,7 +25,8 @@ Our codes were developed using Python 3 with numpy, and pandas libraries. The ve
 The repository is still under cleaning/generalization of the codes and the documentation.
 
 # Merits
-* We use the randomized mechanism KRR implemented in the [multi-freq-ldpy] (https://github.com/hharcolezi/multi-freq-ldpy) library. 
+* We use the randomized mechanism KRR implemented in the [multi-freq-ldpy] (https://github.com/hharcolezi/multi-freq-ldpy) library.
+*  [multi-freq-ldpy](https://github.com/hharcolezi/multi-freq-ldpy)
 
 # Contact
 For any questions, please contact:
