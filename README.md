@@ -36,5 +36,5 @@ For any questions, please contact:
 
 [Héber H. Arcolezi](https://hharcolezi.github.io/): heber.hwang-arcolezi [at] inria.fr
 
-[Sami Zhioua](https://www.lix.polytechnique.fr/Labo/Sami.ZHIOUA/): karima.malhlouf [at]lix.polytechnique.fr
+[Sami Zhioua](https://www.lix.polytechnique.fr/Labo/Sami.ZHIOUA/): zhioua.[at]lix.polytechnique.fr
 
