@@ -19,6 +19,7 @@ Our codes were developed using Python 3 with numpy, and pandas libraries. The ve
 * Python 3.7.3
 * Numpy 1.21.2
 * Pandas 1.3.3
+* Multi-freq-ldpy 0.2.4
 
 # On-going
 The repository is still under cleaning/generalization of the codes and the documentation.
