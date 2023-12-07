@@ -1,4 +1,4 @@
-# Impact-of-KRR-on-Fairness
+# Impact of Multi-dimensional Local Differential Privacy on Fairness
 Repository for the paper: On the Impact of Multi-dimensional Local
 Differential Privacy on Fairness. (Here the link to the arxiv needs to be added and the bibtex for citation).
 
