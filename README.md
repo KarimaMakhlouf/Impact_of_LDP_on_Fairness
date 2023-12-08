@@ -36,7 +36,7 @@ The repository is still under cleaning/generalization of the codes and the docum
 # Contact
 For any questions, please contact:
 
-[Karima Makhouf](http://www.lix.polytechnique.fr/Labo/Karima.MAKHLOUF/): karima.malhlouf [at]inria.fr
+[Karima Makhouf](http://www.lix.polytechnique.fr/Labo/Karima.MAKHLOUF/): karima.makhlouf [at]inria.fr
 
 [Héber H. Arcolezi](https://hharcolezi.github.io/): heber.hwang-arcolezi [at] inria.fr
 
