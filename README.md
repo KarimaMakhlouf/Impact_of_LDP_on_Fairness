@@ -1,9 +1,5 @@
 # Impact of Multi-dimensional Local Differential Privacy on Fairness
-Repository for the paper: On the Impact of Multi-dimensional Local
-Differential Privacy on Fairness. 
-
-You can check the [Preprint](https://arxiv.org/abs/2312.04404) on Arxiv.
-
+Repository for the paper: On the Impact of Multi-dimensional Local Differential Privacy on Fairness. 
 
 # Codes & Datasets
 All the experiments are implemented in Python 3. We use Random Forest model for classification with its default hyper-parameters and we use the
