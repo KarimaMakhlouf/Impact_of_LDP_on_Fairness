@@ -30,8 +30,8 @@ The repository is still under cleaning/generalization of the codes and the docum
 
 # Merits
 * We use the randomized mechanism KRR implemented in the [multi-freq-ldpy](https://github.com/hharcolezi/multi-freq-ldpy) library.
-* We use the Adult dataset from the [folktables](https://github.com/socialfoundations/folktables) library.
-* We use the Compas dataset from the [Kaggle](https://www.kaggle.com/datasets/danofer/compass) repository.
+* We use the _Adult_ dataset from the [folktables](https://github.com/socialfoundations/folktables) library.
+* We use the _Compas_ dataset from the [Kaggle](https://www.kaggle.com/datasets/danofer/compass) repository.
 
 # Contact
 For any questions, please contact:
